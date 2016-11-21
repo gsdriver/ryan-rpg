@@ -1,0 +1,29 @@
+{
+  "name": "ryan-rpg",
+  "version": "0.0.1",
+  "description": "Ryan's Role Playing Game",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test\\app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsdriver/ryan-rpg.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "Ryan Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsdriver/ryan-rpg/issues"
+  },
+  "homepage": "https://github.com/gsdriver/ryan-rpg#readme"
+}

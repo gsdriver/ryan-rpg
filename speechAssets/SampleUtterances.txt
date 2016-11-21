@@ -1,0 +1,1 @@
+ChooseCharacterIntent select a {Character}
